@@ -1,6 +1,7 @@
 # OBS.Live-Japanese
 
-ファイル置き換え場所【C:\Program Files\obs-studio\data\obs-plugins\obs-browser\locale】
+ファイル置き換え場所
+【C:\Program Files\obs-studio\data\obs-plugins\obs-browser\locale】
 
 一応英語ファイルを見比べ違いがないことを確認してから置き換えてください。
 OBSは言語ファイルがそれぞれ同じような構成をしていて同名のファイルが多数あるため en-USを比べ違いがないことを確認したうえで
