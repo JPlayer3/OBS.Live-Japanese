@@ -3,6 +3,9 @@
 ![fcb149f74dfd8c271422738d0920bb9b](https://user-images.githubusercontent.com/72402669/99182644-71e08e00-2779-11eb-93bf-e6d02a29c15a.png)
 ![c246029fc4cb1e7a38a749501fe5b248](https://user-images.githubusercontent.com/72402669/99182643-70af6100-2779-11eb-9bad-c2be8ea8fef3.png)
 
+ダウンロード
+https://github.com/mA0w0/OBS.Live-Japanese/releases
+
 ファイル置き換え場所
 【C:\Program Files\obs-studio\data\obs-plugins\obs-browser\locale】
 
